@@ -1,0 +1,272 @@
+15:17:04,718 root INFO Started Directory Watcher....
+15:17:04,719 root INFO Directory Watcher Mode Set To Copy
+15:17:04,720 root INFO Watcher set on directory F:\Input
+15:17:04,721 root INFO Output Directory set to F:\Output
+15:17:14,890 root INFO Following Directory were added['F:\\Input\\Assignemnt 4', 'F:\\Input\\New folder', 'F:\\Input\\Program Logic', 'F:\\Input\\Assignemnt 4\\.vscode', 'F:\\Input\\Program Logic\\Assignment', 'F:\\Input\\Program Logic\\Examples', 'F:\\Input\\Program Logic\\Assignment\\C2-11', 'F:\\Input\\Program Logic\\Assignment\\C2-2', 'F:\\Input\\Program Logic\\Assignment\\C2-4', 'F:\\Input\\Program Logic\\Assignment\\C2-6', 'F:\\Input\\Program Logic\\Assignment\\C3-1', 'F:\\Input\\Program Logic\\Assignment\\C3-2', 'F:\\Input\\Program Logic\\Assignment\\C3-3', 'F:\\Input\\Program Logic\\Assignment\\C3-9', 'F:\\Input\\Program Logic\\Assignment\\C4-12', 'F:\\Input\\Program Logic\\Assignment\\C4-3', 'F:\\Input\\Program Logic\\Assignment\\C4-6', 'F:\\Input\\Program Logic\\Assignment\\C4-9', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-1', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-10', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-1E', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-5', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-7', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-9', 'F:\\Input\\Program Logic\\Assignment\\C5-11', 'F:\\Input\\Program Logic\\Assignment\\C5-3', 'F:\\Input\\Program Logic\\Assignment\\C5-6', 'F:\\Input\\Program Logic\\Assignment\\C5-7', 'F:\\Input\\Program Logic\\Assignment\\C5-P5-1', 'F:\\Input\\Program Logic\\Assignment\\C5-P5-13', 'F:\\Input\\Program Logic\\Assignment\\C5-P5-3', 'F:\\Input\\Program Logic\\Assignment\\C6-12', 'F:\\Input\\Program Logic\\Assignment\\C6-14', 'F:\\Input\\Program Logic\\Assignment\\C6-2', 'F:\\Input\\Program Logic\\Assignment\\C6-7', 'F:\\Input\\Program Logic\\Assignment\\C7-1', 'F:\\Input\\Program Logic\\Assignment\\C7-4', 'F:\\Input\\Program Logic\\Assignment\\C8-1', 'F:\\Input\\Program Logic\\Assignment\\C8-5', 'F:\\Input\\Program Logic\\Assignment\\C8-8']
+15:17:14,899 root INFO Following files were added ['F:\\Input\\Assignemnt 4\\plot.csv', 'F:\\Input\\Assignemnt 4\\plotme.py', 'F:\\Input\\Assignemnt 4\\.vscode\\launch.json', 'F:\\Input\\Program Logic\\C2-2.zip', 'F:\\Input\\Program Logic\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C8-1.zip', 'F:\\Input\\Program Logic\\Assignment\\C8-5.zip', 'F:\\Input\\Program Logic\\Assignment\\C8-8.zip', 'F:\\Input\\Program Logic\\Assignment\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C2-11\\C2-11.docx', 'F:\\Input\\Program Logic\\Assignment\\C2-11\\C2-11.fprg', 'F:\\Input\\Program Logic\\Assignment\\C2-11\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C2-2\\C2-2.fprg', 'F:\\Input\\Program Logic\\Assignment\\C2-2\\C2-P2 (Sales Prediction).docx', 'F:\\Input\\Program Logic\\Assignment\\C2-2\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C2-4\\C2-4(Total Purhcase).docx', 'F:\\Input\\Program Logic\\Assignment\\C2-4\\C2-4.fprg', 'F:\\Input\\Program Logic\\Assignment\\C2-4\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C2-6\\C2-6.docx', 'F:\\Input\\Program Logic\\Assignment\\C2-6\\C2-6.fprg', 'F:\\Input\\Program Logic\\Assignment\\C2-6\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C3-1\\C3-1.docx', 'F:\\Input\\Program Logic\\Assignment\\C3-1\\C3-1.fprg', 'F:\\Input\\Program Logic\\Assignment\\C3-1\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C3-2\\C3-2.docx', 'F:\\Input\\Program Logic\\Assignment\\C3-2\\C3-2.fprg', 'F:\\Input\\Program Logic\\Assignment\\C3-2\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C3-3\\C3-3.docx', 'F:\\Input\\Program Logic\\Assignment\\C3-3\\C3-3.fprg', 'F:\\Input\\Program Logic\\Assignment\\C3-3\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C3-9\\C3-9.docx', 'F:\\Input\\Program Logic\\Assignment\\C3-9\\C3-9.fprg', 'F:\\Input\\Program Logic\\Assignment\\C3-9\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C4-12\\C4-12.docx', 'F:\\Input\\Program Logic\\Assignment\\C4-12\\C4-12.fprg', 'F:\\Input\\Program Logic\\Assignment\\C4-12\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C4-3\\C4-3.docx', 'F:\\Input\\Program Logic\\Assignment\\C4-3\\C4-3.fprg', 'F:\\Input\\Program Logic\\Assignment\\C4-3\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C4-6\\C4-6.docx', 'F:\\Input\\Program Logic\\Assignment\\C4-6\\C4-6.fprg', 'F:\\Input\\Program Logic\\Assignment\\C4-6\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C4-9\\C4-9.docx', 'F:\\Input\\Program Logic\\Assignment\\C4-9\\C4-9.fprg', 'F:\\Input\\Program Logic\\Assignment\\C4-9\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-1\\C4-P4-1.fprg', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-1\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-10\\C3-P4-10.fprg', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-10\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-1E\\C4-P4-1E.fprg', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-1E\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-5\\C4-P4-5.fprg', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-5\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-7\\C4-P4-7.fprg', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-7\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-9\\C4-P4-9.fprg', 'F:\\Input\\Program Logic\\Assignment\\C4-P4-9\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C5-11\\C5-11.docx', 'F:\\Input\\Program Logic\\Assignment\\C5-11\\C5-11.fprg', 'F:\\Input\\Program Logic\\Assignment\\C5-11\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C5-3\\C5-3.docx', 'F:\\Input\\Program Logic\\Assignment\\C5-3\\C5-3.fprg', 'F:\\Input\\Program Logic\\Assignment\\C5-3\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C5-6\\C5-6.docx', 'F:\\Input\\Program Logic\\Assignment\\C5-6\\C5-6.fprg', 'F:\\Input\\Program Logic\\Assignment\\C5-6\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C5-7\\C5-7.docx', 'F:\\Input\\Program Logic\\Assignment\\C5-7\\C5-7.fprg', 'F:\\Input\\Program Logic\\Assignment\\C5-7\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C5-P5-1\\C5-P5-1.fprg', 'F:\\Input\\Program Logic\\Assignment\\C5-P5-1\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C5-P5-13\\C5-P5-13.fprg', 'F:\\Input\\Program Logic\\Assignment\\C5-P5-13\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C5-P5-3\\C5-P5-3.fprg', 'F:\\Input\\Program Logic\\Assignment\\C5-P5-3\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C6-12\\C6-12.docx', 'F:\\Input\\Program Logic\\Assignment\\C6-12\\C6-12.fprg', 'F:\\Input\\Program Logic\\Assignment\\C6-12\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C6-14\\C6-14.docx', 'F:\\Input\\Program Logic\\Assignment\\C6-14\\C6-14.fprg', 'F:\\Input\\Program Logic\\Assignment\\C6-14\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C6-2\\C6-2.docx', 'F:\\Input\\Program Logic\\Assignment\\C6-2\\C6-2.fprg', 'F:\\Input\\Program Logic\\Assignment\\C6-2\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C6-7\\c6-7.docx', 'F:\\Input\\Program Logic\\Assignment\\C6-7\\C6-7.fprg', 'F:\\Input\\Program Logic\\Assignment\\C6-7\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C7-1\\C7-1.docx', 'F:\\Input\\Program Logic\\Assignment\\C7-1\\c7-1.fprg', 'F:\\Input\\Program Logic\\Assignment\\C7-1\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C7-4\\C7-4.docx', 'F:\\Input\\Program Logic\\Assignment\\C7-4\\C7-4.fprg', 'F:\\Input\\Program Logic\\Assignment\\C7-4\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C8-1\\C8-1.fprg', 'F:\\Input\\Program Logic\\Assignment\\C8-1\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C8-5\\C8-5.fprg', 'F:\\Input\\Program Logic\\Assignment\\C8-5\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Assignment\\C8-8\\C8-8.fprg', 'F:\\Input\\Program Logic\\Assignment\\C8-8\\Open Notebook.onetoc2', 'F:\\Input\\Program Logic\\Examples\\Example 1.fprg', 'F:\\Input\\Program Logic\\Examples\\Open Notebook.onetoc2']
+15:17:14,901 root INFO Copy file from F:\Input\Assignemnt 4\plot.csv to F:\Output\Assignemnt 4\plot.csv
+15:17:14,985 root INFO Copy file from F:\Input\Assignemnt 4\plotme.py to F:\Output\Assignemnt 4\plotme.py
+15:17:15,47 root INFO Copy file from F:\Input\Assignemnt 4\.vscode\launch.json to F:\Output\Assignemnt 4\.vscode\launch.json
+15:17:15,111 root INFO Copy file from F:\Input\Program Logic\C2-2.zip to F:\Output\Program Logic\C2-2.zip
+15:17:15,216 root INFO Copy file from F:\Input\Program Logic\Open Notebook.onetoc2 to F:\Output\Program Logic\Open Notebook.onetoc2
+15:17:15,270 root INFO Copy file from F:\Input\Program Logic\Assignment\C8-1.zip to F:\Output\Program Logic\Assignment\C8-1.zip
+15:17:15,342 root INFO Copy file from F:\Input\Program Logic\Assignment\C8-5.zip to F:\Output\Program Logic\Assignment\C8-5.zip
+15:17:15,411 root INFO Copy file from F:\Input\Program Logic\Assignment\C8-8.zip to F:\Output\Program Logic\Assignment\C8-8.zip
+15:17:15,479 root INFO Copy file from F:\Input\Program Logic\Assignment\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\Open Notebook.onetoc2
+15:17:15,547 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-11\C2-11.docx to F:\Output\Program Logic\Assignment\C2-11\C2-11.docx
+15:17:15,644 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-11\C2-11.fprg to F:\Output\Program Logic\Assignment\C2-11\C2-11.fprg
+15:17:15,708 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-11\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C2-11\Open Notebook.onetoc2
+15:17:15,768 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-2\C2-2.fprg to F:\Output\Program Logic\Assignment\C2-2\C2-2.fprg
+15:17:15,841 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-2\C2-P2 (Sales Prediction).docx to F:\Output\Program Logic\Assignment\C2-2\C2-P2 (Sales Prediction).docx
+15:17:15,939 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-2\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C2-2\Open Notebook.onetoc2
+15:17:16,5 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-4\C2-4(Total Purhcase).docx to F:\Output\Program Logic\Assignment\C2-4\C2-4(Total Purhcase).docx
+15:17:16,99 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-4\C2-4.fprg to F:\Output\Program Logic\Assignment\C2-4\C2-4.fprg
+15:17:16,163 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-4\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C2-4\Open Notebook.onetoc2
+15:17:16,225 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-6\C2-6.docx to F:\Output\Program Logic\Assignment\C2-6\C2-6.docx
+15:17:16,325 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-6\C2-6.fprg to F:\Output\Program Logic\Assignment\C2-6\C2-6.fprg
+15:17:16,399 root INFO Copy file from F:\Input\Program Logic\Assignment\C2-6\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C2-6\Open Notebook.onetoc2
+15:17:16,467 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-1\C3-1.docx to F:\Output\Program Logic\Assignment\C3-1\C3-1.docx
+15:17:16,569 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-1\C3-1.fprg to F:\Output\Program Logic\Assignment\C3-1\C3-1.fprg
+15:17:16,638 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-1\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C3-1\Open Notebook.onetoc2
+15:17:16,700 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-2\C3-2.docx to F:\Output\Program Logic\Assignment\C3-2\C3-2.docx
+15:17:16,804 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-2\C3-2.fprg to F:\Output\Program Logic\Assignment\C3-2\C3-2.fprg
+15:17:16,880 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-2\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C3-2\Open Notebook.onetoc2
+15:17:16,942 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-3\C3-3.docx to F:\Output\Program Logic\Assignment\C3-3\C3-3.docx
+15:17:17,46 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-3\C3-3.fprg to F:\Output\Program Logic\Assignment\C3-3\C3-3.fprg
+15:17:17,115 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-3\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C3-3\Open Notebook.onetoc2
+15:17:17,177 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-9\C3-9.docx to F:\Output\Program Logic\Assignment\C3-9\C3-9.docx
+15:17:17,285 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-9\C3-9.fprg to F:\Output\Program Logic\Assignment\C3-9\C3-9.fprg
+15:17:17,365 root INFO Copy file from F:\Input\Program Logic\Assignment\C3-9\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C3-9\Open Notebook.onetoc2
+15:17:17,424 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-12\C4-12.docx to F:\Output\Program Logic\Assignment\C4-12\C4-12.docx
+15:17:17,518 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-12\C4-12.fprg to F:\Output\Program Logic\Assignment\C4-12\C4-12.fprg
+15:17:17,577 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-12\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C4-12\Open Notebook.onetoc2
+15:17:17,640 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-3\C4-3.docx to F:\Output\Program Logic\Assignment\C4-3\C4-3.docx
+15:17:17,736 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-3\C4-3.fprg to F:\Output\Program Logic\Assignment\C4-3\C4-3.fprg
+15:17:17,802 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-3\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C4-3\Open Notebook.onetoc2
+15:17:17,868 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-6\C4-6.docx to F:\Output\Program Logic\Assignment\C4-6\C4-6.docx
+15:17:17,968 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-6\C4-6.fprg to F:\Output\Program Logic\Assignment\C4-6\C4-6.fprg
+15:17:18,40 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-6\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C4-6\Open Notebook.onetoc2
+15:17:18,104 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-9\C4-9.docx to F:\Output\Program Logic\Assignment\C4-9\C4-9.docx
+15:17:18,213 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-9\C4-9.fprg to F:\Output\Program Logic\Assignment\C4-9\C4-9.fprg
+15:17:18,282 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-9\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C4-9\Open Notebook.onetoc2
+15:17:18,343 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-1\C4-P4-1.fprg to F:\Output\Program Logic\Assignment\C4-P4-1\C4-P4-1.fprg
+15:17:18,402 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-1\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C4-P4-1\Open Notebook.onetoc2
+15:17:18,464 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-10\C3-P4-10.fprg to F:\Output\Program Logic\Assignment\C4-P4-10\C3-P4-10.fprg
+15:17:18,531 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-10\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C4-P4-10\Open Notebook.onetoc2
+15:17:18,595 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-1E\C4-P4-1E.fprg to F:\Output\Program Logic\Assignment\C4-P4-1E\C4-P4-1E.fprg
+15:17:18,658 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-1E\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C4-P4-1E\Open Notebook.onetoc2
+15:17:18,722 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-5\C4-P4-5.fprg to F:\Output\Program Logic\Assignment\C4-P4-5\C4-P4-5.fprg
+15:17:18,788 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-5\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C4-P4-5\Open Notebook.onetoc2
+15:17:18,855 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-7\C4-P4-7.fprg to F:\Output\Program Logic\Assignment\C4-P4-7\C4-P4-7.fprg
+15:17:18,925 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-7\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C4-P4-7\Open Notebook.onetoc2
+15:17:18,986 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-9\C4-P4-9.fprg to F:\Output\Program Logic\Assignment\C4-P4-9\C4-P4-9.fprg
+15:17:19,49 root INFO Copy file from F:\Input\Program Logic\Assignment\C4-P4-9\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C4-P4-9\Open Notebook.onetoc2
+15:17:19,108 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-11\C5-11.docx to F:\Output\Program Logic\Assignment\C5-11\C5-11.docx
+15:17:19,206 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-11\C5-11.fprg to F:\Output\Program Logic\Assignment\C5-11\C5-11.fprg
+15:17:19,275 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-11\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C5-11\Open Notebook.onetoc2
+15:17:19,338 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-3\C5-3.docx to F:\Output\Program Logic\Assignment\C5-3\C5-3.docx
+15:17:19,431 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-3\C5-3.fprg to F:\Output\Program Logic\Assignment\C5-3\C5-3.fprg
+15:17:19,499 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-3\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C5-3\Open Notebook.onetoc2
+15:17:19,566 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-6\C5-6.docx to F:\Output\Program Logic\Assignment\C5-6\C5-6.docx
+15:17:19,662 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-6\C5-6.fprg to F:\Output\Program Logic\Assignment\C5-6\C5-6.fprg
+15:17:19,735 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-6\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C5-6\Open Notebook.onetoc2
+15:17:19,801 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-7\C5-7.docx to F:\Output\Program Logic\Assignment\C5-7\C5-7.docx
+15:17:19,900 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-7\C5-7.fprg to F:\Output\Program Logic\Assignment\C5-7\C5-7.fprg
+15:17:19,961 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-7\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C5-7\Open Notebook.onetoc2
+15:17:20,26 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-P5-1\C5-P5-1.fprg to F:\Output\Program Logic\Assignment\C5-P5-1\C5-P5-1.fprg
+15:17:20,95 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-P5-1\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C5-P5-1\Open Notebook.onetoc2
+15:17:20,156 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-P5-13\C5-P5-13.fprg to F:\Output\Program Logic\Assignment\C5-P5-13\C5-P5-13.fprg
+15:17:20,228 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-P5-13\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C5-P5-13\Open Notebook.onetoc2
+15:17:20,286 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-P5-3\C5-P5-3.fprg to F:\Output\Program Logic\Assignment\C5-P5-3\C5-P5-3.fprg
+15:17:20,351 root INFO Copy file from F:\Input\Program Logic\Assignment\C5-P5-3\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C5-P5-3\Open Notebook.onetoc2
+15:17:20,412 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-12\C6-12.docx to F:\Output\Program Logic\Assignment\C6-12\C6-12.docx
+15:17:20,511 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-12\C6-12.fprg to F:\Output\Program Logic\Assignment\C6-12\C6-12.fprg
+15:17:20,574 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-12\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C6-12\Open Notebook.onetoc2
+15:17:20,636 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-14\C6-14.docx to F:\Output\Program Logic\Assignment\C6-14\C6-14.docx
+15:17:20,736 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-14\C6-14.fprg to F:\Output\Program Logic\Assignment\C6-14\C6-14.fprg
+15:17:20,815 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-14\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C6-14\Open Notebook.onetoc2
+15:17:20,879 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-2\C6-2.docx to F:\Output\Program Logic\Assignment\C6-2\C6-2.docx
+15:17:20,981 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-2\C6-2.fprg to F:\Output\Program Logic\Assignment\C6-2\C6-2.fprg
+15:17:21,44 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-2\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C6-2\Open Notebook.onetoc2
+15:17:21,107 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-7\c6-7.docx to F:\Output\Program Logic\Assignment\C6-7\c6-7.docx
+15:17:21,201 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-7\C6-7.fprg to F:\Output\Program Logic\Assignment\C6-7\C6-7.fprg
+15:17:21,267 root INFO Copy file from F:\Input\Program Logic\Assignment\C6-7\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C6-7\Open Notebook.onetoc2
+15:17:21,331 root INFO Copy file from F:\Input\Program Logic\Assignment\C7-1\C7-1.docx to F:\Output\Program Logic\Assignment\C7-1\C7-1.docx
+15:17:21,433 root INFO Copy file from F:\Input\Program Logic\Assignment\C7-1\c7-1.fprg to F:\Output\Program Logic\Assignment\C7-1\c7-1.fprg
+15:17:21,501 root INFO Copy file from F:\Input\Program Logic\Assignment\C7-1\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C7-1\Open Notebook.onetoc2
+15:17:21,566 root INFO Copy file from F:\Input\Program Logic\Assignment\C7-4\C7-4.docx to F:\Output\Program Logic\Assignment\C7-4\C7-4.docx
+15:17:21,655 root INFO Copy file from F:\Input\Program Logic\Assignment\C7-4\C7-4.fprg to F:\Output\Program Logic\Assignment\C7-4\C7-4.fprg
+15:17:21,728 root INFO Copy file from F:\Input\Program Logic\Assignment\C7-4\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C7-4\Open Notebook.onetoc2
+15:17:21,796 root INFO Copy file from F:\Input\Program Logic\Assignment\C8-1\C8-1.fprg to F:\Output\Program Logic\Assignment\C8-1\C8-1.fprg
+15:17:21,861 root INFO Copy file from F:\Input\Program Logic\Assignment\C8-1\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C8-1\Open Notebook.onetoc2
+15:17:21,924 root INFO Copy file from F:\Input\Program Logic\Assignment\C8-5\C8-5.fprg to F:\Output\Program Logic\Assignment\C8-5\C8-5.fprg
+15:17:21,992 root INFO Copy file from F:\Input\Program Logic\Assignment\C8-5\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C8-5\Open Notebook.onetoc2
+15:17:22,56 root INFO Copy file from F:\Input\Program Logic\Assignment\C8-8\C8-8.fprg to F:\Output\Program Logic\Assignment\C8-8\C8-8.fprg
+15:17:22,118 root INFO Copy file from F:\Input\Program Logic\Assignment\C8-8\Open Notebook.onetoc2 to F:\Output\Program Logic\Assignment\C8-8\Open Notebook.onetoc2
+15:17:22,174 root INFO Copy file from F:\Input\Program Logic\Examples\Example 1.fprg to F:\Output\Program Logic\Examples\Example 1.fprg
+15:17:22,237 root INFO Copy file from F:\Input\Program Logic\Examples\Open Notebook.onetoc2 to F:\Output\Program Logic\Examples\Open Notebook.onetoc2
+18:25:08,301 root INFO Started Directory Watcher....
+18:25:08,302 root INFO Directory Watcher Mode Set To Copy
+18:25:08,302 root INFO Watcher set on directory C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input
+18:25:08,302 root INFO Output Directory set to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output
+18:25:38,311 root INFO Following Directory were added['\\Assignemnt 4', '\\Assignemnt 4\\.vscode']
+18:25:38,311 root INFO Create Directory from \Assignemnt 4 to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4
+18:25:38,354 root INFO Create Directory from \Assignemnt 4\.vscode to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\.vscode
+18:25:38,378 root INFO Following files were added ['\\Assignemnt 4\\plot.csv', '\\Assignemnt 4\\plotme.py', '\\Assignemnt 4\\.vscode\\launch.json']
+18:25:38,380 root INFO Copy file from \Assignemnt 4\plot.csv to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\plot.csv
+18:25:38,411 root INFO Copy file from \Assignemnt 4\plotme.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\plotme.py
+18:25:38,433 root INFO Copy file from \Assignemnt 4\.vscode\launch.json to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\.vscode\launch.json
+18:26:08,460 root INFO Following Directory were added['\\New folder (2)']
+18:26:08,461 root INFO Create Directory from \New folder (2) to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\New folder (2)
+18:26:35,152 root INFO Started Directory Watcher....
+18:26:35,152 root INFO Directory Watcher Mode Set To Move
+18:26:35,156 root INFO Watcher set on directory C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input
+18:26:35,157 root INFO Output Directory set to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output
+18:26:45,165 root INFO Following Directory were added['\\Assignment 2', '\\Assignment 2\\assets']
+18:26:45,165 root INFO Create Directory from \Assignment 2 to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignment 2
+18:26:45,218 root INFO Create Directory from \Assignment 2\assets to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignment 2\assets
+18:26:45,242 root INFO Following files were added ['\\Assignment 2\\employee.txt', '\\Assignment 2\\main.py', '\\Assignment 2\\assets\\Employees.csv']
+18:26:45,243 root INFO Move file from \Assignment 2\employee.txt to \Assignment 2\employee.txt
+18:27:50,236 root INFO Started Directory Watcher....
+18:27:50,236 root INFO Directory Watcher Mode Set To Move
+18:27:50,237 root INFO Watcher set on directory C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input
+18:27:50,237 root INFO Output Directory set to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output
+18:28:00,248 root INFO Following files were added ['\\Assignment 2\\employee.txt', '\\Assignment 2\\main.py', '\\Assignment 2\\assets\\Employees.csv']
+18:28:00,248 root INFO Move file from \Assignment 2\employee.txt to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignment 2\employee.txt
+18:28:00,304 root INFO Move file from \Assignment 2\main.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignment 2\main.py
+18:29:33,861 root INFO Started Directory Watcher....
+18:29:33,861 root INFO Directory Watcher Mode Set To Move
+18:29:33,862 root INFO Watcher set on directory C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input
+18:29:33,862 root INFO Output Directory set to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output
+18:29:43,877 root INFO Following files were added ['\\Assignment 2\\assets\\Employees.csv']
+18:29:43,879 root INFO Move file from \Assignment 2\assets\Employees.csv to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignment 2\assets\Employees.csv
+18:30:03,964 root INFO Following files were added ['\\New Microsoft Access Database.accdb']
+18:30:03,965 root INFO Move file from \New Microsoft Access Database.accdb to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\New Microsoft Access Database.accdb
+18:30:24,25 root INFO Following files were added ['\\Career E-Portfolios.pptx', '\\Career Planning Report.docx', '\\Career Planning Report.pdf', '\\Case Study.docx', '\\Certificate of Completion.pdf', '\\Cover Letter (1).docx', '\\Cover Letter Lambton.docx', '\\Cover Letter Service.docx', '\\Cover Letter.docx', '\\Informational Interviews.docx', '\\Optimal Resume.docx', '\\Resume.docx', '\\Skills and Qualification.docx']
+18:30:24,25 root INFO Move file from \Career E-Portfolios.pptx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Career E-Portfolios.pptx
+18:30:24,78 root INFO Move file from \Career Planning Report.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Career Planning Report.docx
+18:30:24,111 root INFO Move file from \Career Planning Report.pdf to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Career Planning Report.pdf
+18:30:24,138 root INFO Move file from \Case Study.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Case Study.docx
+18:30:24,156 root INFO Move file from \Certificate of Completion.pdf to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Certificate of Completion.pdf
+18:30:24,171 root INFO Move file from \Cover Letter (1).docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Cover Letter (1).docx
+18:30:24,187 root INFO Move file from \Cover Letter Lambton.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Cover Letter Lambton.docx
+18:30:24,204 root INFO Move file from \Cover Letter Service.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Cover Letter Service.docx
+18:30:24,218 root INFO Move file from \Cover Letter.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Cover Letter.docx
+18:30:24,231 root INFO Move file from \Informational Interviews.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Informational Interviews.docx
+18:30:24,247 root INFO Move file from \Optimal Resume.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Optimal Resume.docx
+18:30:24,263 root INFO Move file from \Resume.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Resume.docx
+18:30:24,281 root INFO Move file from \Skills and Qualification.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Skills and Qualification.docx
+18:30:34,301 root INFO Following Directory were added['\\CO-OP work permit']
+18:30:34,302 root INFO Create Directory from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\CO-OP work permit to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\CO-OP work permit
+18:30:34,326 root INFO Following files were added ['\\CO-OP work permit\\CSAC Co-op Work Permit - Utkarsh Reuben Khanna.pdf', '\\CO-OP work permit\\imm5710e.pdf', '\\CO-OP work permit\\imm5710e_sub.pdf', '\\CO-OP work permit\\IMM5710E_Submit.pdf', '\\CO-OP work permit\\Medical.pdf', '\\CO-OP work permit\\Passport.pdf', '\\CO-OP work permit\\Photo.jpg', '\\CO-OP work permit\\Your document checklist - Immigration, Refugees and Citizenship Canada.pdf']
+18:30:34,329 root INFO Move file from \CO-OP work permit\CSAC Co-op Work Permit - Utkarsh Reuben Khanna.pdf to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\CO-OP work permit\CSAC Co-op Work Permit - Utkarsh Reuben Khanna.pdf
+18:30:34,353 root INFO Move file from \CO-OP work permit\imm5710e.pdf to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\CO-OP work permit\imm5710e.pdf
+18:30:34,368 root INFO Move file from \CO-OP work permit\imm5710e_sub.pdf to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\CO-OP work permit\imm5710e_sub.pdf
+18:30:34,387 root INFO Move file from \CO-OP work permit\IMM5710E_Submit.pdf to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\CO-OP work permit\IMM5710E_Submit.pdf
+18:30:34,951 root INFO Move file from \CO-OP work permit\Medical.pdf to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\CO-OP work permit\Medical.pdf
+18:30:34,968 root INFO Move file from \CO-OP work permit\Passport.pdf to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\CO-OP work permit\Passport.pdf
+18:30:34,982 root INFO Move file from \CO-OP work permit\Photo.jpg to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\CO-OP work permit\Photo.jpg
+18:30:34,994 root INFO Move file from \CO-OP work permit\Your document checklist - Immigration, Refugees and Citizenship Canada.pdf to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\CO-OP work permit\Your document checklist - Immigration, Refugees and Citizenship Canada.pdf
+18:30:48,575 root INFO Started Directory Watcher....
+18:30:48,576 root INFO Directory Watcher Mode Set To Move
+18:30:48,577 root INFO Watcher set on directory C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input
+18:30:48,577 root INFO Output Directory set to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output
+18:30:58,582 root INFO Following Directory were added['\\Assignemnt 4', '\\New folder', '\\New folder (2)', '\\Assignemnt 4\\.vscode']
+18:30:58,582 root INFO Create Directory from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4 to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4
+18:30:58,613 root INFO Create Directory from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\New folder to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\New folder
+18:30:58,635 root INFO Create Directory from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\New folder (2) to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\New folder (2)
+18:30:58,655 root INFO Create Directory from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\.vscode to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\.vscode
+18:30:58,673 root INFO Following files were added ['\\Assignemnt 4\\plot.csv', '\\Assignemnt 4\\plotme.py', '\\Assignemnt 4\\.vscode\\launch.json', '\\New folder\\New Microsoft Word Document.docx', '\\New folder\\New Text Document.txt']
+18:30:58,675 root INFO Move file from \Assignemnt 4\plot.csv to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\plot.csv
+18:30:58,695 root INFO Move file from \Assignemnt 4\plotme.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\plotme.py
+18:30:58,708 root INFO Move file from \Assignemnt 4\.vscode\launch.json to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\.vscode\launch.json
+18:30:58,722 root INFO Move file from \New folder\New Microsoft Word Document.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\New folder\New Microsoft Word Document.docx
+18:30:58,733 root INFO Move file from \New folder\New Text Document.txt to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\New folder\New Text Document.txt
+18:39:02,724 root INFO Started Directory Watcher....
+18:39:02,725 root INFO Directory Watcher Mode Set To Copy
+18:39:02,725 root INFO Watcher set on directory C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input
+18:39:02,726 root INFO Output Directory set to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output
+18:39:42,762 root INFO Following Directory were added['\\Assignemnt 4', '\\New folder', '\\New folder (2)', '\\Assignemnt 4\\.vscode']
+18:39:42,762 root INFO Following files were added ['\\Assignemnt 4\\plot.csv', '\\Assignemnt 4\\plotme.py', '\\Assignemnt 4\\.vscode\\launch.json', '\\New folder\\New Microsoft Word Document.docx', '\\New folder\\New Text Document.txt']
+18:39:42,769 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\plot.csv to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\plot.csv
+18:39:42,824 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\plotme.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\plotme.py
+18:39:42,871 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\.vscode\launch.json to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\.vscode\launch.json
+18:39:42,915 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\New folder\New Microsoft Word Document.docx to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\New folder\New Microsoft Word Document.docx
+18:39:42,942 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\New folder\New Text Document.txt to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\New folder\New Text Document.txt
+18:40:04,648 root INFO Started Directory Watcher....
+18:40:04,649 root INFO Directory Watcher Mode Set To Copy
+18:40:04,649 root INFO Watcher set on directory C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input
+18:40:04,650 root INFO Output Directory set to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output
+19:08:56,114 root INFO Following Directory were added['\\Tk']
+19:09:19,927 root INFO Create Directory from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk
+19:09:19,995 root INFO Following files were added ['\\Tk\\button.py', '\\Tk\\canvas.py', '\\Tk\\check.py', '\\Tk\\entry.py', '\\Tk\\frame.py', '\\Tk\\label.py', '\\Tk\\label2.py', '\\Tk\\labelframe.py', '\\Tk\\menu.py', '\\Tk\\menubutton.py', '\\Tk\\messagbox.py', '\\Tk\\message.py', '\\Tk\\paned.py', '\\Tk\\radio.py', '\\Tk\\scale.py', '\\Tk\\scrollbar.py', '\\Tk\\spinbox.py', '\\Tk\\text.py', '\\Tk\\toplevel.py', '\\Tk\\window.py']
+19:09:19,999 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\button.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\button.py
+19:09:20,39 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\canvas.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\canvas.py
+19:09:20,55 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\check.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\check.py
+19:09:20,74 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\entry.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\entry.py
+19:09:20,90 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\frame.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\frame.py
+19:09:20,109 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\label.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\label.py
+19:09:20,127 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\label2.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\label2.py
+19:09:20,144 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\labelframe.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\labelframe.py
+19:09:20,163 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\menu.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\menu.py
+19:09:20,180 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\menubutton.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\menubutton.py
+19:09:20,197 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\messagbox.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\messagbox.py
+19:09:20,213 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\message.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\message.py
+19:09:20,234 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\paned.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\paned.py
+19:09:20,251 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\radio.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\radio.py
+19:09:20,271 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\scale.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\scale.py
+19:09:20,287 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\scrollbar.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\scrollbar.py
+19:09:20,307 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\spinbox.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\spinbox.py
+19:09:20,326 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\text.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\text.py
+19:09:20,347 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\toplevel.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\toplevel.py
+19:09:20,369 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\window.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\window.py
+19:09:32,295 root INFO Started Directory Watcher....
+19:09:32,296 root INFO Directory Watcher Mode Set To Copy
+19:09:32,296 root INFO Watcher set on directory C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input
+19:09:32,296 root INFO Output Directory set to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output
+19:10:02,316 root INFO Following Directory were added['\\Tk\\Tk']
+19:10:02,317 root INFO Create Directory from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk
+19:10:02,342 root INFO Following files were added ['\\Tk\\Tk\\button.py', '\\Tk\\Tk\\canvas.py', '\\Tk\\Tk\\check.py', '\\Tk\\Tk\\entry.py', '\\Tk\\Tk\\frame.py', '\\Tk\\Tk\\label.py', '\\Tk\\Tk\\label2.py', '\\Tk\\Tk\\labelframe.py', '\\Tk\\Tk\\menu.py', '\\Tk\\Tk\\menubutton.py', '\\Tk\\Tk\\messagbox.py', '\\Tk\\Tk\\message.py', '\\Tk\\Tk\\paned.py', '\\Tk\\Tk\\radio.py', '\\Tk\\Tk\\scale.py', '\\Tk\\Tk\\scrollbar.py', '\\Tk\\Tk\\spinbox.py', '\\Tk\\Tk\\text.py', '\\Tk\\Tk\\toplevel.py', '\\Tk\\Tk\\window.py']
+19:10:02,344 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\button.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\button.py
+19:10:02,374 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\canvas.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\canvas.py
+19:10:02,394 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\check.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\check.py
+19:10:02,408 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\entry.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\entry.py
+19:10:02,422 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\frame.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\frame.py
+19:10:02,439 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\label.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\label.py
+19:10:02,457 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\label2.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\label2.py
+19:10:02,478 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\labelframe.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\labelframe.py
+19:10:02,499 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\menu.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\menu.py
+19:10:02,516 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\menubutton.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\menubutton.py
+19:10:02,534 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\messagbox.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\messagbox.py
+19:10:02,557 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\message.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\message.py
+19:10:02,585 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\paned.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\paned.py
+19:10:02,616 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\radio.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\radio.py
+19:10:02,644 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\scale.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\scale.py
+19:10:02,682 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\scrollbar.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\scrollbar.py
+19:10:02,702 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\spinbox.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\spinbox.py
+19:10:02,725 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\text.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\text.py
+19:10:02,745 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\toplevel.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\toplevel.py
+19:10:02,768 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Tk\Tk\window.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Tk\Tk\window.py
+19:10:42,831 root INFO Following Directory were added['\\Assignemnt 4\\Tk']
+19:10:42,832 root INFO Create Directory from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk
+19:10:42,899 root INFO Following files were added ['\\Assignemnt 4\\Tk\\button.py', '\\Assignemnt 4\\Tk\\canvas.py', '\\Assignemnt 4\\Tk\\check.py', '\\Assignemnt 4\\Tk\\entry.py', '\\Assignemnt 4\\Tk\\frame.py', '\\Assignemnt 4\\Tk\\label.py', '\\Assignemnt 4\\Tk\\label2.py', '\\Assignemnt 4\\Tk\\labelframe.py', '\\Assignemnt 4\\Tk\\menu.py', '\\Assignemnt 4\\Tk\\menubutton.py', '\\Assignemnt 4\\Tk\\messagbox.py', '\\Assignemnt 4\\Tk\\message.py', '\\Assignemnt 4\\Tk\\paned.py', '\\Assignemnt 4\\Tk\\radio.py', '\\Assignemnt 4\\Tk\\scale.py', '\\Assignemnt 4\\Tk\\scrollbar.py', '\\Assignemnt 4\\Tk\\spinbox.py', '\\Assignemnt 4\\Tk\\text.py', '\\Assignemnt 4\\Tk\\toplevel.py', '\\Assignemnt 4\\Tk\\window.py']
+19:10:42,902 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\button.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\button.py
+19:10:43,10 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\canvas.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\canvas.py
+19:10:43,67 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\check.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\check.py
+19:10:43,128 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\entry.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\entry.py
+19:10:43,220 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\frame.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\frame.py
+19:10:43,313 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\label.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\label.py
+19:10:43,399 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\label2.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\label2.py
+19:10:43,522 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\labelframe.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\labelframe.py
+19:10:43,588 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\menu.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\menu.py
+19:10:43,765 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\menubutton.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\menubutton.py
+19:10:43,889 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\messagbox.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\messagbox.py
+19:10:43,937 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\message.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\message.py
+19:10:44,21 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\paned.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\paned.py
+19:10:44,230 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\radio.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\radio.py
+19:10:44,298 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\scale.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\scale.py
+19:10:44,491 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\scrollbar.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\scrollbar.py
+19:10:44,875 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\spinbox.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\spinbox.py
+19:10:45,170 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\text.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\text.py
+19:10:45,454 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\toplevel.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\toplevel.py
+19:10:45,703 root INFO Copy file from C:\Users\Gridstore\Desktop\Canadian Docs\Python\Input\\Assignemnt 4\Tk\window.py to C:\Users\Gridstore\Desktop\Canadian Docs\Python\Output\\Assignemnt 4\Tk\window.py
